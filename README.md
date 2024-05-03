@@ -18,6 +18,12 @@
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
+## Projects
+1. [Car Market Application](https://github.com/dilshod-musakhanov/job4j_cars): A simple car market app built with *Java*, *Spring Boot*, *Hibernate*, *PostgreSQL*, *Liquibase*, *Lombok*, *Log4j*, *Thymeleaf*, and *Bootstrap*. Allows managing advertisements with CRUD operations.
+2. [URL Shortening Web Service](https://github.com/dilshod-musakhanov/job4j_url_shortcut): A web service developed in *Java* with *Spring Boot*, *Spring Data JPA*, *Spring Security*, *JWT*, and *PostgreSQL*. Provides URL shortening functionality and usage statistics.
+3. [Java Vacancy Aggregator](https://github.com/dilshod-musakhanov/job4j_grabber): It runs on a minute schedule, extracting Java-related vacancies from career.habr.com and storing them in a database. Accessible via REST API. Built with *Java*, *JSoup*, *PostgreSQL*, *Quartz Scheduler*, *SLF4J Log4j*.
+4. [Car Accident Registration](https://github.com/dilshod-musakhanov/job4j_accidents):The user can perform CRUD operations with reports traffic violation/accidents. App built with
+*Java*, *Spring Boot*, *Thymeleaf*, *Spring Web*, *Log4j*, *SLF4J Log4j*, *Lombok*, *Hibernate*, *Spring JDBC*, *Spring Security*, *Spring Data JPA*, *PostgreSQL*.
 
 ## Contact Me
 Feel free to reach out to me via [email](mailto:musakhanov@yahoo.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dilshod-musakhanov-b80a8274/).
