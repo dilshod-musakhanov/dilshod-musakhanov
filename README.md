@@ -24,6 +24,7 @@
 3. [Java Vacancy Aggregator](https://github.com/dilshod-musakhanov/job4j_grabber): It runs on a minute schedule, extracting Java-related vacancies from career.habr.com and storing them in a database. Accessible via REST API. Built with *Java*, *JSoup*, *PostgreSQL*, *Quartz Scheduler*, *SLF4J Log4j*.
 4. [Car Accident Registration](https://github.com/dilshod-musakhanov/job4j_accidents):The user can perform CRUD operations with reports traffic violation/accidents. App built with
 *Java*, *Spring Boot*, *Thymeleaf*, *Spring Web*, *Log4j*, *SLF4J Log4j*, *Lombok*, *JUnit*, *Hibernate*, *Spring JDBC*, *Spring Security*, *Spring Data JPA*, *PostgreSQL*.
+5. [Wikimedia Updates Kafka Integration](https://github.com/dilshod-musakhanov/Kafka-with-real-time-stream): This project demonstrates the integration of Kafka with a web service to stream real-time updates from the Wikimedia website. Technologies used *Java*, *Apache Kafka*, *Spring Boot*, *Hibernate*, *PostgreSQL*, *EventSource*, *Liquibase*, *Lombok*, *SLF4J Log4j*,
 
 ## Contact Me
 Feel free to reach out to me via [email](mailto:musakhanov@yahoo.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dilshod-musakhanov-b80a8274/).
